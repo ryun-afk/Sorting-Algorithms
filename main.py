@@ -15,7 +15,7 @@ arr= np.random.randint(min,max,amount)
 #mergeSort(arr)
 
 arr= np.random.randint(min,max,amount)
-#insertionSort(arr)
+insertionSort(arr)
 
 arr= np.random.randint(min,max,amount)
-selectionSort(arr)
+#selectionSort(arr)
