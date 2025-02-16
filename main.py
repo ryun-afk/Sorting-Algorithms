@@ -10,16 +10,16 @@ min = 0
 max = 100
 
 arr= np.random.randint(min,max,amount)
-#bubbleSort(arr)
+bubbleSort(arr)
 
 arr= np.random.randint(min,max,amount)
-#mergeSort(arr)
+mergeSort(arr)
 
 arr= np.random.randint(min,max,amount)
-#insertionSort(arr)
+insertionSort(arr)
 
 arr= np.random.randint(min,max,amount)
-#selectionSort(arr)
+selectionSort(arr)
 
 arr= np.random.randint(min,max,amount)
 quickSort(arr)
