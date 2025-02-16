@@ -7,6 +7,7 @@ from visual import plot
 def selectionSort(arr):
     n = len(arr)
 
+    print('Selection Sort')
     print(arr)
 
     min_index = 0
